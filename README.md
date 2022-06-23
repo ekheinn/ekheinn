@@ -1,4 +1,4 @@
-<h2 align="left">Olá meu nome é Heitor, e meu nick é Ekhein. 👾</h2>
+<h2 align="left">Sou o Heitor, e meu nick é Ekhein. 👾</h2>
 
 ###
 
@@ -18,18 +18,10 @@
 
 ###
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/heitor-moreira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://cdn.discordapp.com/attachments/533021202222940181/989531391345688596/dog-love-heart-heart-dog.gif"  />
 </div>
-
-###
-
-<img align="right" height="140" src="https://cdn.discordapp.com/attachments/533021202222940181/989531391345688596/dog-love-heart-heart-dog.gif"  />
-
-###
-
-<img href="https://raw.githubusercontent.com/ekheinn/ekheinn/blob/output/snake.svg" alt="Snake animation" />
 
 ###
