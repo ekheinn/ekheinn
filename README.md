@@ -22,9 +22,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/533021202222940181/989531391345688596/dog-love-heart-heart-dog.gif"  />
-</div>
 
 ###
 
