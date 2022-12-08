@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://portfolio-ekheinn.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portifólio&logo=linktree&label=&color=2a1c76&logoColor=3427cd&labelColor=3427cd&style=for-the-badge" height="35" alt="linktree logo"  />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="portfolio logo"  />
   </a>
   <a href="heitor.cardoso39@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
